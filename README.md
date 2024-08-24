@@ -16,5 +16,3 @@ Installation Link<br>
 wget https://raw.githubusercontent.com/apih46/Script12/main/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
 <b>
-
-wget https://raw.githubusercontent.com/apih46/Script12/main/install.sh && chmod +x install.sh && sed -i -e 's/\r$//' install.sh && screen -S setup ./install.sh
