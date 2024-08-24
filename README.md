@@ -16,3 +16,5 @@ Installation Link<br>
 wget https://raw.githubusercontent.com/apih46/Script12/main/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
 <b>
+
+![tele](https://raw.githubusercontent.com/apih46/Script12/main/system/kuda.jpg) 
