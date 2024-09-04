@@ -13,7 +13,7 @@
 Installation Link<br>
  
   ```html
-wget apt install bzip2 && https://raw.githubusercontent.com/apih46/Script12/main/setup.sh && chmod +x setup.sh && ./setup.sh
+apt install bzip2 && wget https://raw.githubusercontent.com/apih46/Script12/main/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
 <b>
 
