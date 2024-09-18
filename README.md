@@ -17,4 +17,11 @@ apt install bzip2 && wget https://raw.githubusercontent.com/apih46/Script12/main
   ```
 <b>
 
+MENU
 ![tele](https://raw.githubusercontent.com/apih46/Script12/main/system/kuda.jpg) 
+
+
+TELEGRAM BOT
+![ikan](https://raw.githubusercontent.com/apih46/Script12/main/system/ikan.png)
+
+💬t.me/lukavpn
