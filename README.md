@@ -24,4 +24,4 @@ MENU
 TELEGRAM BOT
 ![ikan](https://raw.githubusercontent.com/apih46/Script12/main/system/ikan.png)
 
-💬t.me/lukavpn
+💬 https://t.me/lukavpn 💬
