@@ -366,9 +366,7 @@ clear
 cd /usr/bin
 wget "$link/system/mesinssh"
 wget -O m.zip "${link}/menu.zip"
-echo "Enter the password to extract the Menu file:"
-read zip_password
-unzip -P "$zip_password" m.zip ; rm -fr m.zip ; chmod +x *
+7z x m.zip ; rm -fr m.zip ; chmod +x *
 clear
 cd /etc/xray
 wget -O m.zip "${link}/system/json.zip"
