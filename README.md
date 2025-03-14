@@ -17,7 +17,7 @@
 Installation Link<br>
  
   ```html
-wget https://raw.githubusercontent.com/apih46/Script12/main/setup.sh && chmod +x setup.sh && ./setup.sh
+PERSONAL USE ONLY!!! 
   ```
 <b>
 
