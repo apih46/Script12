@@ -28,4 +28,7 @@ MENU
 TELEGRAM BOT
 ![ikan](https://raw.githubusercontent.com/apih46/Script12/main/system/ikan.png)
 
+TELEGRAM Bot BETA
+![kuda](https://raw.githubusercontent.com/apih46/Script12/main/system/kuda.png)
+
 💬 https://t.me/lukavpn 💬
